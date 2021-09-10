@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1629290264 source:g:\cricket game\cricketgame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<cmath>
+
+1629290264 >
+
+1629290015 source:g:\cricket game\cricketgame\main2.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<unistd.h>
+	<cmath>
+
+1629290015 
+
+1629301364 source:/media/harsh/New Volume1/CRICKET GAME/Cricketgame/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<cstdlib>
+	<unistd.h>
+	<windows.h>
+	<cmath>
+
